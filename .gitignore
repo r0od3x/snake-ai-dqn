@@ -1,0 +1,12 @@
+# Virtual environments
+pygame_env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Output of your own training runs (the shipped model is model/pretrained.pth)
+model/model.pth
+model/*_backup.pth
